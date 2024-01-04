@@ -8,12 +8,11 @@ Welcome to Free Mind Labs, *a vanguard in AI-driven personal data analysis.*
 
 Our vision is to harness AI for *deep exploration into your personal data*, such as your YouTube history, smartphone-recorded videos, and all your writings on media platforms like Facebook and others.
 
-<div align="center">
-  <img src="../images/Connectors.jpg" alt="Elasticsearch IMemoryDb"
-  style="border-radius: 8px; margin: 0 auto; width: 100%; max-width: 450px;" />
-</div>
-
 The [Elasticsearch Kernel Memory connector](https://github.com/freemindlabsinc/FreeMindLabs.KernelMemory.Elasticsearch), our current breakthrough, paves the way for this exploration. It’s a foundational component for our more extensive project, [Videomatic](https://github.com/freemindlabsinc/videomatic), which will offer unprecedented insights into your evolving interests and personal journey.
+
+<div align="center">
+  <img src="../images/Connectors.jpg" alt="Elasticsearch IMemoryDb" style="border-radius: 8px; margin: 0 auto;" width="450px" />
+</div>
 
 Supporting us means joining a mission **to transform personal data into a powerful tool for self-discovery.**
 
