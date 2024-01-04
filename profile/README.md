@@ -1,7 +1,7 @@
 Welcome to Free Mind Labs, *a vanguard in AI-driven personal data analysis.*
 
 <div align="center">
-   <img src="../images/FML-Logo-Square.png" width="40%" />
+   <img src="https://github.com/freemindlabsinc/.github/blob/main/images/FML-Logo-Square.png" width="40%" />
 </div>
 
 ## Our Vision
@@ -11,7 +11,7 @@ Our vision is to harness AI for *deep exploration into your personal data*, such
 The [Elasticsearch Kernel Memory connector](https://github.com/freemindlabsinc/FreeMindLabs.KernelMemory.Elasticsearch), our current breakthrough, paves the way for this exploration. It’s a foundational component for our more extensive project, [Videomatic](https://github.com/freemindlabsinc/videomatic), which will offer unprecedented insights into your evolving interests and personal journey.
 
 <div align="center">
-  <img src="../images/Connectors.jpg" alt="Elasticsearch IMemoryDb" style="border-radius: 8px; margin: 0 auto;" width="450px" />
+  <img src="https://github.com/freemindlabsinc/.github/blob/main/images/Connectors.jpg" alt="Elasticsearch IMemoryDb" style="border-radius: 8px; margin: 0 auto;" width="450px" />
 </div>
 
 Supporting us means joining a mission **to transform personal data into a powerful tool for self-discovery.**
