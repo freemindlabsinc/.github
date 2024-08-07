@@ -9,7 +9,7 @@ At Free Mind Labs, our mission is to create cutting-edge, innovative software so
 
 ## Active Projects
 
-[IntelliBlog](https://github.com/freemindlabsinc/intelliblog) 
+### [IntelliBlog](https://github.com/freemindlabsinc/intelliblog) 
 
 IntelliBlog is a minimalist blog application showcasing Clean Architecture and CQRS principles. 
 Key features include:
@@ -17,3 +17,17 @@ Key features include:
 1. Content Extraction and Summarization: Import and summarize articles from various sources.
 1. Role-based Access: Admin, editor, and regular user roles with secure authentication via Google or GitHub.
 1. GraphQL API: Efficient data querying and manipulation using GraphQL.
+
+Read more about [IntelliBlog here!](https://github.com/freemindlabsinc/intelliblog)
+
+### [Elasticsearch connector for Kernel Memory](https://github.com/freemindlabsinc/FreeMindLabs.KernelMemory.Elasticsearch)
+
+The ES connector for Kernel Memory allows Microsoft Kernel Memory to use Elasticsearch as a vector database.
+Read more about how this works and why it's important in our ["GUEST POST: How to build a Kernel Memory connector and use Elasticsearch as vector database"](https://devblogs.microsoft.com/semantic-kernel/elasticsearch-kernelmemory/) article on the Microsoft Developer Blogs.
+
+👍 The connector has been incorporated into the [official Microsoft repository!](https://github.com/microsoft/kernel-memory/tree/main/extensions/Elasticsearch/Elasticsearch) and it's now maintained there.
+
+### [GPTMemoryBank](https://github.com/freemindlabsinc/GPTMemoryBank)
+
+[*Archived*] Experiments using LLamaIndex and Python to create a RAG service.
+
