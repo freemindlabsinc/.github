@@ -31,3 +31,9 @@ Read more about how this works and why it's important in our ["GUEST POST: How t
 
 [*Archived*] Experiments using LLamaIndex and Python to create a RAG service.
 
+### [Videomatic](https://github.com/freemindlabsinc/videomatic)
+
+[*Archived*] Videomatic is a specialized video processing system that extracts valuable insights from video and audio sources.
+Sources can be media streaming platforms, file-sharing platforms, and local (private) data.
+The insights are generated using AI and they are made accessible in the form of text artifacts.
+
