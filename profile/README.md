@@ -27,6 +27,8 @@ Read more about how this works and why it's important in our ["GUEST POST: How t
 
 👍 The connector has been incorporated into the [official Microsoft repository!](https://github.com/microsoft/kernel-memory/tree/main/extensions/Elasticsearch/Elasticsearch) and it's now maintained there.
 
+## Archived Projects
+
 ### [GPTMemoryBank](https://github.com/freemindlabsinc/GPTMemoryBank)
 
 [*Archived*] Experiments using LLamaIndex and Python to create a RAG service.
